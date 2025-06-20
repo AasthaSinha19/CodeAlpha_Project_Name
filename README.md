@@ -1,4 +1,4 @@
-# 🐍 Python Mini Projects Collection
+# ![Python Logo](https://img.icons8.com/color/48/000000/python.png) Python Mini Projects Collection
 
 ## 📌 Project Title:
 Python Programs Portfolio: Hangman Game | Stock Portfolio Tracker | Chatbot
